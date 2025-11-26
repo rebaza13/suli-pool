@@ -1,0 +1,12 @@
+
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "contact": "Contact"
+  },
+  "buttons": {
+    "book_now": "Book now",
+    "send": "Send"
+  }
+}
