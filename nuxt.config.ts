@@ -8,5 +8,5 @@ export default defineNuxtConfig({
   "~/assets/scss/main.scss", 
 ],
 
-  modules: ["@nuxtjs/i18n"],
+  modules: ["@nuxtjs/i18n", "@nuxt/ui"],
 })

@@ -1,5 +1,10 @@
 @use "variables" as *;
 @use "reset";
 @use "mixins";
+@use "pages/hero";
 
 // Global classes if you want
+body {
+  line-height: 1.5;
+  min-height: 100vh;
+}
